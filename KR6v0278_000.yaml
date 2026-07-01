@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0278/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 標異鄉義慈惠石柱頌
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0073.xml
+    old_id: I01n0073
+hash: sha256:717a7cd8485b18092dd6638a1a2cdea01d08f3cb3b96933084f4ff07357c3e16

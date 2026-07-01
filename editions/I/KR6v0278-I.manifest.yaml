@@ -1,0 +1,198 @@
+canonical_identifier: bkk:krp/KR6v0278/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0278/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 標異鄉義慈惠石柱頌
+  identifiers:
+    krp: KR6v0278
+    cbeta: I01n0073
+    cbeta_old_id: I01n0073
+    authorityid: CA0008208
+    json_key: I0073
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0073.xml
+    old_id: I01n0073
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0278_000-I.yaml, hash: 'sha256:717a7cd8485b18092dd6638a1a2cdea01d08f3cb3b96933084f4ff07357c3e16'}
+  - {seq: 1, filename: KR6v0278_001-I.yaml, hash: 'sha256:e25772ee274a134921c7efee2841b2d4cead7ae97c70a4252bad755e3e2335a3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0278_000-I.markers.yaml, hash: 'sha256:87980ecf05ca7e9b2d89eba21e09526b0f2af7ca0548153a11490e82f234e0ba'}
+  - {seq: 1, role: markers, filename: assets/KR6v0278_001-I.markers.yaml, hash: 'sha256:b83c155dd66a2dc24c5171b4314fc7edad6f8aefec0e22bd983b368bc7a893b0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 4946
+  label: 標異鄉義慈惠石柱頌
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之一　南面第一層
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-2
+    span:
+    - body
+    - 134
+    - 134
+  label: 之九　東面上層上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-3
+    span:
+    - body
+    - 374
+    - 374
+  label: 之二　南面第二層
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-4
+    span:
+    - body
+    - 782
+    - 782
+  label: 之三　西南面第二層
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-5
+    span:
+    - body
+    - 934
+    - 934
+  label: 之四　西北面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-6
+    span:
+    - body
+    - 1004
+    - 1004
+  label: 之五　東面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-7
+    span:
+    - body
+    - 1135
+    - 1135
+  label: 之六　東南面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-8
+    span:
+    - body
+    - 1222
+    - 1222
+  label: 之七　北面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-9
+    span:
+    - body
+    - 1547
+    - 1547
+  label: 之八　南面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-10
+    span:
+    - body
+    - 2135
+    - 2135
+  label: 之九　西南面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-11
+    span:
+    - body
+    - 2432
+    - 2432
+  label: 之十　西面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-12
+    span:
+    - body
+    - 3021
+    - 3021
+  label: 之十一　西北面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-13
+    span:
+    - body
+    - 3304
+    - 3304
+  label: 之十二　北面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-14
+    span:
+    - body
+    - 3871
+    - 3871
+  label: 之十三　東北面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-15
+    span:
+    - body
+    - 4164
+    - 4164
+  label: 之十四　東面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0278_I_001-mulu-16
+    span:
+    - body
+    - 4722
+    - 4722
+  label: 之十五　東南面
+  type: mulu
+  level: 1
+hash: sha256:6e56f0d1ce6df245edc67c7824289b2ab8cc341f2820c7a67a37a2d5b1a4a553
