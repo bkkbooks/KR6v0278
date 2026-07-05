@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0278_000.yaml, hash: 'sha256:717a7cd8485b18092dd6638a1a2cdea01d08f3cb3b96933084f4ff07357c3e16'}
-  - {seq: 1, filename: KR6v0278_001.yaml, hash: 'sha256:32696fe9e254aa9c4e01208aa439f3f3401b1670a02de37af0b4bfda76e4f7f8'}
+  - {seq: 1, filename: KR6v0278_001.yaml, hash: 'sha256:e25772ee274a134921c7efee2841b2d4cead7ae97c70a4252bad755e3e2335a3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0278_001.markers.yaml, hash: 'sha256:3c73af7d84f1ab4ad80eff6e5952574242bfff442770528cc8be917818b7a451'}
+  - {seq: 0, role: markers, filename: assets/KR6v0278_000.markers.yaml, hash: 'sha256:c439d4bf81081f9d6c65e869086cf2597a8ba944f757c96c8a848557f1853d13'}
+  - {seq: 1, role: markers, filename: assets/KR6v0278_001.markers.yaml, hash: 'sha256:16efa42675bd91e20e0a7f7bb9917f4e50d55a78bd19434f0c3c8e80bc3aa113'}
 table_of_contents:
 - ref:
     seq: 1
@@ -196,7 +197,4 @@ table_of_contents:
   label: 之十五　東南面
   type: mulu
   level: 1
-hash: sha256:046e30cac5b3eb4812c42958eb59e2771db5dcd605e2d1599d1bab967215bc28
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:06b1978e7826333490855214b1b91f3e92a002d23b41ca119d1eb5bfa4d569b2
