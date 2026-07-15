@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0278/v1
 canonical_location: https://kanripo.org/bkk/KR6v0278/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 標異鄉義慈惠石柱頌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0278_000.yaml, hash: 'sha256:717a7cd8485b18092dd6638a1a2cdea01d08f3cb3b96933084f4ff07357c3e16'}
-  - {seq: 1, filename: KR6v0278_001.yaml, hash: 'sha256:e25772ee274a134921c7efee2841b2d4cead7ae97c70a4252bad755e3e2335a3'}
+  - {seq: 1, filename: KR6v0278_001.yaml, hash: 'sha256:2e4c1ea4d84294894287413cf71b714cb57273b8db86fa622056e642d472980f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0278_000.markers.yaml, hash: 'sha256:c439d4bf81081f9d6c65e869086cf2597a8ba944f757c96c8a848557f1853d13'}
-  - {seq: 1, role: markers, filename: assets/KR6v0278_001.markers.yaml, hash: 'sha256:16efa42675bd91e20e0a7f7bb9917f4e50d55a78bd19434f0c3c8e80bc3aa113'}
+  - {seq: 1, role: markers, filename: assets/KR6v0278_001.markers.yaml, hash: 'sha256:dfe1c4ede6f3b391a969e4c395a9d808dbb7cab12904d437232ff41deabcf62e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -197,4 +197,7 @@ table_of_contents:
   label: 之十五　東南面
   type: mulu
   level: 1
-hash: sha256:06b1978e7826333490855214b1b91f3e92a002d23b41ca119d1eb5bfa4d569b2
+hash: sha256:7bbd9c3ffc3aa15b8c934c986c3305b30a96d4c0b938abacad77e42d726240bb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
